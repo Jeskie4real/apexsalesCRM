@@ -13,10 +13,7 @@ Apex CRM Application
 ### Steps
 
 1. **Clone the Repository**
-
-    ```
-    git clone https://github.com/Peter-Vulpes/CRM_basic.git
-    ```
+    https://github.com/Jeskie4real/apexsalesCRM```
 
 2. **Install Dependencies**
 
@@ -78,6 +75,7 @@ After installation, you can access the CRM application by navigating to the root
 
 
 Overview
+
 Apex CRM is a comprehensive Customer Relationship Management (CRM) application built with Laravel.
 It provides a suite of tools for managing customer interactions, tracking leads, and monitoring sales.
 The application is designed to streamline business operations and improve customer relationships.
@@ -87,6 +85,7 @@ Organization Management: Track and manage customer organizations.
 User Management: Manage user profiles and permissions.
 Contact Management: Maintain contact information for organization contacts.
 Quote Management: Create and manage quotes for potential deals.
+Create Customer outside Deals
 Invoice Management: Generate and manage invoices for completed deals.
 Activity Tracking: Monitor user activities and tasks.
 Deal Management: Track the sales process from lead to close.
