@@ -104,17 +104,24 @@ Role Name Signature Date
 
 Project Supervisor:_____________ Project Supervisor:_____________
 
-Abstract:
-The final project entails the development of a bespoke CRM solution for Apex Sales, a burgeoning B2B sales enterprise.
+### Abstract:
+
+The final project entails the development of CRM solution for Apex Sales, a B2B sales enterprise.
+
 The objective is to enable Apex Sales in effectively managing their sales pipeline encompassing accounts, contacts,
 deals, and activities.
+
 The system requirements encompass multifaceted functionalities such as user and role management, organization 
 and account tracking, deal management with stage tracking, activity recording, team organization, comprehensive
 reporting, and quotes and invoices generation.
+
 Key deliverables include requirements and design documentation, database schema, core CRUD functionalities,
 role-based access control, reporting dashboard, quotes and invoices workflow, and a testing suite achieving 80% coverage.
+
+
 The project breakdown outlines modules such as Deals, Organizations/Accounts, Users, Contacts, Quotes and Invoices,
-Activities, and Reports, each delineating specific functionalities and database structures.
+Tasks, and Reports, each delineating specific functionalities and database structures.
+
 The project aims to deliver a functional CRM solution empowering Apex Sales to assert control over their sales pipeline, 
 with evaluation based on feature completeness, code quality, documentation, and product demonstration.
 
