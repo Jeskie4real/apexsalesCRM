@@ -174,6 +174,16 @@ Risk: Lack of user adoption
 Mitigation: Conduct comprehensive training sessions for users, provide ongoing support, and solicit feedback for continuous improvement.
 
 ### System design
+
+!{Screenshot}(![flowchart](https://github.com/Jeskie4real/apexsalesCRM/assets/127031122/8bd902a9-71ce-4767-8c45-78e8fe2e7d95)
+)
+
+
+
+
+
+
+
 crm-chart
 Technologies:
 The Apex Sales CRM Project will be developed using the following technologies: Requirements: Technology Description:
