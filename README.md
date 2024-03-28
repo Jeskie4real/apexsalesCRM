@@ -74,13 +74,13 @@ After installation, you can access the CRM application by navigating to the root
 
 
 
-Overview
+### Overview
 
 Apex CRM is a comprehensive Customer Relationship Management (CRM) application built with Laravel.
 It provides a suite of tools for managing customer interactions, tracking leads, and monitoring sales.
 The application is designed to streamline business operations and improve customer relationships.
 
-Features
+### Features
 Organization Management: Track and manage customer organizations.
 User Management: Manage user profiles and permissions.
 Contact Management: Maintain contact information for organization contacts.
@@ -93,7 +93,7 @@ PROJECT TITLE: APEX CRM.
 
 COURSE: DIPLOMA IN SOFTWARE DEVELOPEMENT. NAME: ELVIS MAGULI IMOLI. STUDENT NUMBER: 230411. SUPERVISOR: TR Edward.
 
-Declaration.
+### Declaration.
 This is my original work and has not been presented in any institution for any certification in 
 any institution for any certification. I assert the information given and conclusions drawn
 are an outcome of my work. Name: …………………… Signature:…………………
@@ -119,7 +119,7 @@ The project aims to deliver a functional CRM solution empowering Apex Sales to a
 with evaluation based on feature completeness, code quality, documentation, and product demonstration.
 
 
-INTRODUCTION.
+### INTRODUCTION.
 
 This proposal delves into my journey of mastering frontend and backend frameworks, highlighting their practical application 
 through coding lessons and hands-on projects. It also sheds light on the imminent collaboration with Apex Sales,
@@ -147,7 +147,7 @@ That's why we're diving into the world of customized CRM solutions. With this ne
 
 
 
-Project Risk and Mitigations:
+### Project Risk and Mitigations:
 Risk: Data security breaches
 
 Mitigation: Implement robust security measures, provide user training on data security best practices,
@@ -163,7 +163,7 @@ Risk: Lack of user adoption
 
 Mitigation: Conduct comprehensive training sessions for users, provide ongoing support, and solicit feedback for continuous improvement.
 
-System design
+### System design
 crm-chart
 Technologies:
 The Apex Sales CRM Project will be developed using the following technologies: Requirements: Technology Description:
