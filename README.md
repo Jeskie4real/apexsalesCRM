@@ -81,17 +81,17 @@ It provides a suite of tools for managing customer interactions, tracking leads,
 The application is designed to streamline business operations and improve customer relationships.
 
 ### Features
-Organization Management: Track and manage customer organizations.
-User Management: Manage user profiles and permissions.
-Contact Management: Maintain contact information for organization contacts.
-Quote Management: Create and manage quotes for potential deals.
-Create Customer outside Deals
-Invoice Management: Generate and manage invoices for completed deals.
-Activity Tracking: Monitor user activities and tasks.
-Deal Management: Track the sales process from lead to close.
+*Organization Management: Track and manage customer organizations.*
+*User Management: Manage user profiles and permissions.*
+*Contact Management: Maintain contact information for organization contacts.*
+*Quote Management: Create and manage quotes for potential deals.*
+*Create Customer outside Deals*
+*Invoice Management: Generate and manage invoices for completed deals.*
+*Activity Tracking: Monitor user activities and tasks.*
+*Deal Management: Track the sales process from lead to close.*
 PROJECT TITLE: APEX CRM.
 
-COURSE: DIPLOMA IN SOFTWARE DEVELOPEMENT. NAME: ELVIS MAGULI IMOLI. STUDENT NUMBER: 230411. SUPERVISOR: TR Edward.
+**COURSE: DIPLOMA IN SOFTWARE DEVELOPEMENT. NAME: ELVIS MAGULI IMOLI. STUDENT NUMBER: 230411. SUPERVISOR: Mr  Edward.**
 
 ### Declaration.
 This is my original work and has not been presented in any institution for any certification in 
@@ -130,10 +130,13 @@ a growing B2B sales organization.
 This solution will enable Apex Sales to effectively track their sales pipeline across accounts, contacts, deals, and activities.
 By harnessing Laravel's flexibility and scalability, we aim to deliver a solution that meets the unique requirements of Apex Sales
 while ensuring seamless integration and smooth functionality.
+
 Additionally, the collaboration with Apex Sales presents an exciting opportunity to apply Laravel's advanced capabilities in 
 role-based access control, reporting dashboards, quotes and invoices workflows, and more.
 This partnership underscores the versatility and reliability of Laravel in building sophisticated web applications tailored 
 to specific business needs.
+
+
 Through this collaboration, we aspire to not only deliver a high-quality CRM solution for Apex Sales but also showcase the 
 capabilities of Laravel in driving business growth and efficiency. Objective:
 At Apex Sales, we're on a mission to elevate our sales game and foster stronger client connections.
