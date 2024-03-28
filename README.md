@@ -185,17 +185,22 @@ Mitigation: Conduct comprehensive training sessions for users, provide ongoing s
 
 
 crm-chart
+
 Technologies:
+
 The Apex Sales CRM Project will be developed using the following technologies: Requirements: Technology Description:
 
 Front-end: HTML, CSS,Bootstrap, For building a responsive and interactive user interface.
+
 Database: Mysql For Data storage.
-Back-end: Laravel $ PHP To create a scalable and RESTful API for handling data and analisis.
-Development Plan:
+
+Back-end: Laravel $ PHP To create a scalable and RESTful API for handling data.
+
+##Development Plan:
 Requirement Analysis: Gather detailed requirements from Apex Sales stakeholders to understand their needs and objectives.
-Design Phase: Design the database schema, user interface mockups, and architectural plan for the CRM system.
-Development: Develop the CRM solution using Laravel framework for backend development and React.js for frontend development.
+##Design Phase: Design the database schema, user interface mockups, and architectural plan for the CRM system.
+##Development: Develop the CRM solution using Laravel framework for backend development and React.js for frontend development.
 Implement core CRUD functionality, role-based access control, reporting dashboard, quotes and invoices workflow,
 and other required features.
-Testing: Conduct comprehensive testing to ensure the functionality, security, and performance of the CRM system. This includes unit testing, integration testing, and user acceptance testing.
+##Testing: Conduct comprehensive testing to ensure the functionality, security, and performance of the CRM system. This includes unit testing, integration testing, and user acceptance testing.
 Deployment: Deploy the CRM solution to a staging environment for final testing and validation by stakeholders. Address any issues or bugs identified during this phase.
