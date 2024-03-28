@@ -90,6 +90,7 @@ Invoice Management: Generate and manage invoices for completed deals.
 Activity Tracking: Monitor user activities and tasks.
 Deal Management: Track the sales process from lead to close.
 PROJECT TITLE: APEX CRM.
+
 COURSE: DIPLOMA IN SOFTWARE DEVELOPEMENT. NAME: ELVIS MAGULI IMOLI. STUDENT NUMBER: 230411. SUPERVISOR: TR Edward.
 
 Declaration.
